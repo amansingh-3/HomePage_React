@@ -1,7 +1,7 @@
 {
   "homepage": "https://amansingh-3.github.io/home/",
   "name": "home",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
